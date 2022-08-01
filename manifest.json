@@ -9,7 +9,7 @@
       "content_scripts": [
             {
                   "matches": ["https://zenn.dev/ymktmk?tab=scraps"],
-                  "css": ["style/css/style.css"],"js": ["style/js/script.js"]
+                  "css": ["assets/css/style.css"],"js": ["plugins/js/script.js"]
             }
       ]
 }
